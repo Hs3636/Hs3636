@@ -1,21 +1,16 @@
 
 # Hi, I'm Heet Shah 👋
 
+## 🔗 Portfolio & Professional Profiles
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-indol-phi-25.vercel.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heet-shah-0327a325b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heet_shah_0404/)
 
 
 ## 🚀 About Me
 - I'm a **full stack developer** from India.
 - 📚 **Learning:** Next.js, Python
 - ✨ **Interests:** Travel and explore
-
-
-
-
-## 🔗 Portfolio & Professional Profiles
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-indol-phi-25.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heet-shah-0327a325b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heet_shah_0404/)
-
 
 ## 💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/heetshah4545/) 

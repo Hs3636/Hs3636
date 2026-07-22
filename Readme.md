@@ -25,27 +25,7 @@
 <a href="https://instagram.com/heet_shah_0404" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heet_shah_0404" height="30" width="40" />
 </a>
-</p>
-
-<h3>Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Hs3636/Sales-sync">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hs3636&repo=Sales-sync&theme=github_dark&show_owner=true" />
-  </a>
-  <a href="https://github.com/Hs3636/Ai-pdf-compliance-scanner">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hs3636&repo=Ai-pdf-compliance-scanner&theme=github_dark&show_owner=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Hs3636/GridWatch-360">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hs3636&repo=GridWatch-360&theme=github_dark&show_owner=true" />
-  </a>
-  <a href="https://github.com/Hs3636/Rideeasy-data-platform">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hs3636&repo=Rideeasy-data-platform&theme=github_dark&show_owner=true" />
-  </a>
-</p>
+</p>  
 
 <h3 align="left">Languages and Tools:</h3>
 

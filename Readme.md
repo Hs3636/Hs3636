@@ -121,6 +121,4 @@
 </p>
 <p align="left">
   <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hs3636&theme=github-dark-blue&hide_border=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hs3636&layout=compact&langs_count=4"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Hs3636&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues,stars"/>
 
